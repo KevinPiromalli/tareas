@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    background-color: rgb(10, 94, 150);
+    padding: 5px;
+    margin: 5px;
+}
+
+
+.nav-enlace{
+    display: inline-block ;
+    background: rgb(182, 122, 54) ;
+    color: rgb(0, 0, 0) ;
+    padding: 10px 30px ;
+    text-decoration: double  ;
+
+}
+.nav-enlace:hover{
+    background-color: rgba(119, 6, 6, 0.521);
+}
+
